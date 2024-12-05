@@ -49,14 +49,14 @@ const Experience = () => {
                     <article className='experience__details'>
                         <FaGitAlt className='experience__details-icon'/>
                         <div className='experience__details-name'>
-                            <h4>Git</h4>
+                            <h4>Vue.js</h4>
                         </div>
                     </article>
                 </div>
             </div>
 
             <div className="experience__backend">
-            <h3>Back End</h3>
+            <h3>Back-End</h3>
                 <div className="experience__content">
                     <article className='experience__details'>
                         <FaJava className='experience__details-icon'/>
@@ -67,7 +67,7 @@ const Experience = () => {
                     <article className='experience__details'>
                         <SiSpringboot className='experience__details-icon'/>
                         <div className='experience__details-name'>
-                            <h4>Spring Boot</h4>
+                            <h4>Node.js</h4>
                         </div>
                     </article>
                     <article className='experience__details'>
@@ -79,7 +79,7 @@ const Experience = () => {
                     <article className='experience__details'>
                         <MdHttp className='experience__details-icon'/>
                         <div className='experience__details-name'>
-                            <h4>REST API</h4>
+                            <h4>PHP</h4>
                         </div>
                     </article>
                     <article className='experience__details'>
