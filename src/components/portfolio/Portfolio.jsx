@@ -7,7 +7,7 @@ const projects = [
 { 
     id: 1,
     image: JPMC,
-    title: 'JPMorgan Chase & Co.',
+    title: 'Rydeu Logistics UG',
     position: 'Front-End Development Intern',
     date: 'July 2024 - September 2024',
     description: 'As a Front-End Developer, I engineered a dynamic and responsive User Interface for the Travel Management Start-Up platform named Rydeu, leveraging modern Frameworks and optimized Code Structures. I implemented advanced UX patterns, state management, and API integrations to enable seamless itinerary customization and efficient destination management for B2B travel agents and corporate users.'
