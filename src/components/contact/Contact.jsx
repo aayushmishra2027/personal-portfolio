@@ -15,22 +15,22 @@ const Contact = () => {
     };
     return (
         <section id='contact'>
-            <h5>Get In Touch</h5>
-            <h2>Contact Me</h2>
+            <h5>Want to Connect?</h5>
+            <h2>Contact Me Here</h2>
 
             <div className="container contact__container">
                 <div className="contact__options">
                     <article className="contact__option">
                         <HiOutlineMail className='contact__option-icon'/>
-                        <h4>Email</h4> 
-                        <h5>lucasyannul13@gmail.com</h5>
-                        <a href="mailto:lucasyannul13@gmail.com">Email me!</a>
+                        <h4>E-Mail</h4> 
+                        <h5>aayushmishra1105@gmail.com</h5>
+                        <a href="mailto:aayushmishra1105@gmail.com">E-Mail Me!</a>
                     </article>
                     <article className="contact__option">
                         <BsLinkedin className='contact__option-icon'/>
                         <h4>LinkedIn</h4> 
-                        <h5>in/lucasyannul</h5>
-                        <a href='https://www.linkedin.com/in/lucasyannul' target='_blank'>Message me on LinkedIn!</a>
+                        <h5>in/aayushanilmishra</h5>
+                        <a href='https://www.linkedin.com/in/aayush-anil-mishra-508abb280/' target='_blank'>Connect on LinkedIn!</a>
                     </article>
                 </div>
                 <form ref={form} onSubmit={sendEmail}>
