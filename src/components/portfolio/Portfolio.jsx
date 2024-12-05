@@ -8,17 +8,17 @@ const projects = [
     id: 1,
     image: JPMC,
     title: 'JPMorgan Chase & Co.',
-    position: 'Software Engineering Intern',
-    date: 'Jun 2022 - Aug 2022',
-    description: 'Created a mobile app chatbot using React.js and Spring Boot to help business teams working with Ultra-High-Net-Worth clients in accessing asset and liability information on the go. Built the UI and custom quick chat functionality based on response data from the bot\’s conversation API.'
+    position: 'Front-End Development Intern',
+    date: 'July 2024 - September 2024',
+    description: 'As a Front-End Developer, I engineered a dynamic and responsive User Interface for the Travel Management Start-Up platform named Rydeu, leveraging modern Frameworks and optimized Code Structures. I implemented advanced UX patterns, state management, and API integrations to enable seamless itinerary customization and efficient destination management for B2B travel agents and corporate users.'
 },
 { 
     id: 2,
     image: ICANON,
-    title: 'ICANON Associates',
-    position: 'Software Engineering Intern',
-    date: 'Jun 2021 - Aug 2021',
-    description: 'Developed a plugin for the Thunderbird email client to allow the support staff to log tickets to their database based on email content and color code incoming emails based on ticket status. Also migrated the company\'s legacy application from a Java-based Swing version to a web-based version using JavaScript, HTML, JSP\'s, CSS & jQuery.'
+    title: 'Khan Academy',
+    position: 'Web-Content Developer and Strategizing Intern',
+    date: 'May 2024 - July 2024',
+    description: 'My responsibilities included reviewing existing content, crafting practice questions with solutions, and iterating on content based on feedback. Additionally, I analyzed content usage metrics to identify areas for improvement and optimized content strategy accordingly.'
 },
 ];
 
@@ -26,7 +26,7 @@ const Portfolio = () => {
   return (
     <section id='portfolio'>
         <h5>My Recent Work</h5>
-        <h2>Portfolio</h2>
+        <h2>Experience</h2>
 
         <div className="container portfolio__container">
            {projects.map((project) => {
