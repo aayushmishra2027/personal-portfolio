@@ -9,7 +9,7 @@
     aspect-ratio: 1/1;
     border-radius: 2rem;
     background: linear-gradient(
-        60deg, 
+        45deg, 
         transparent, 
         var(--color-primary),
         transparent
@@ -22,7 +22,7 @@
     background: var(--color-bg);
     border-radius: 2rem;
     overflow: hidden;
-    transform: rotate(20deg);
+    transform: rotate(10deg);
     transition: var(--transition);
 }
 
