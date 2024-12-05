@@ -9,7 +9,7 @@
     aspect-ratio: 1/1;
     border-radius: 2rem;
     background: linear-gradient(
-        45deg, 
+        60deg, 
         transparent, 
         var(--color-primary),
         transparent
@@ -22,7 +22,7 @@
     background: var(--color-bg);
     border-radius: 2rem;
     overflow: hidden;
-    transform: rotate(10deg);
+    transform: rotate(20deg);
     transition: var(--transition);
 }
 
@@ -70,8 +70,7 @@
     color: var(--color-light);
 }
 
-/* media queries */
-/* mobile devices */
+
 @media screen and (max-width: 600px){
     .about__me {
         width: 65%;
@@ -92,7 +91,6 @@
     }
 }
 
-/* medium sized devices */
 @media screen and (max-width: 1024px){
     .about__container {
         grid-template-columns: 1fr;
