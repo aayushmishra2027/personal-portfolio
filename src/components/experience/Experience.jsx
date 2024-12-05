@@ -1,7 +1,7 @@
 import React from 'react';
 import "./Experience.css";
-import {FaReact, FaHtml5, FaGitAlt, FaJava} from 'react-icons/fa';
-import {SiJavascript, SiTypescript, SiCss3, SiSpringboot, SiCplusplus} from 'react-icons/si';
+import {FaReact, FaHtml5, FaVueAlt, FaJava} from 'react-icons/fa';
+import {SiJavascript, SiTypescript, SiCss3, SiPhp, SiCplusplus} from 'react-icons/si';
 import {MdHttp} from 'react-icons/md';
 import {TbBrandNextjs} from 'react-icons/tb';
 
